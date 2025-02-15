@@ -1,0 +1,60 @@
+[
+    {
+        "make": "Williams-Renault",
+        "model": "FW14B", 
+        "year": "1992", 
+        "specs": 
+            {
+                "engine": "Renault V10", 
+                "gearbox": "Six speed, semi-automatic", 
+                "suspension": "Active", 
+                "drivers": 
+                    [
+                        {
+                            "name": "Nigel Mansell", 
+                            "nationality": "British",
+                            "championships": "0"
+                        }, 
+                        {
+                            "name": "Riccardo Patrese", 
+                            "nationality": "Italian",
+                            "championships": "0"
+                        }, 
+                        {
+                            "name": "Damon Hill", 
+                            "nationality": "British",
+                            "championships": "0"
+                        }
+                    ]
+            }
+    },
+    {
+        "make": "Mclaren-Honda",
+        "model": "MP4/7", 
+        "year": "1992", 
+        "specs": 
+            {
+                "engine": "Honda V12", 
+                "gearbox": "Six speed, semi-automatic", 
+                "suspension": "Passive", 
+                "drivers": 
+                    [
+                        {
+                            "name": "Ayrton Senna", 
+                            "nationality": "Brazilian",
+                            "championships": "3"
+                        }, 
+                        {
+                            "name": "Gerhard Berger", 
+                            "nationality": "Austrian",
+                            "championships": "0"
+                        }, 
+                        {
+                            "name": "Mark Blundell", 
+                            "nationality": "British",
+                            "championships": "0"
+                        }
+                    ]
+            }
+    }
+]
